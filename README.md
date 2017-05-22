@@ -2,10 +2,10 @@
 This repo contains materials for a 90-minute introductory D3 guest lecture with the Spring Data Science Immersive at [General Assembly DC](https://generalassemb.ly/education/data-science-immersive).
 
 # Getting Started
-[Download Brackets](http://brackets.io/) 
-> After installing: open --> click on brick on right --> search for 'Emmet' --> install
+1. [Download Brackets](http://brackets.io/) 
+    > After installing: open --> click on brick on right --> search for 'Emmet' --> install
 
-Create a folder for today's D3 project (i.e. documents/d3-intro)
+2. Create a folder for today's D3 project (i.e. documents/d3-intro)
 
 # Session Goals
 - Introducing key vocabulary and concepts of visualization library D3.js
